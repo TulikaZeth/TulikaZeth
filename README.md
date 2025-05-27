@@ -1,4 +1,4 @@
-## Hi there 👋 I an Tulika Anand
+## Hi there 👋 I am Tulika Anand
 I am an aspiring software developer passionate about coding and innovation. Currently mastering Python, React, and AI/ML while exploring web and backend development. Always eager to learn and build impactful projects! 🚀
 
 <!--
