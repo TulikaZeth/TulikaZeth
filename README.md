@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Tulika Anand
-I am an aspiring software developer passionate about coding and innovation. Currently mastering Python, React, and AI/ML while exploring web and backend development. Always eager to learn and build impactful projects! 🚀
+I am an aspiring software developer passionate about coding and innovation. Currently mastering Python, React, and AI/ML while exploring AIML and backend development. Always eager to learn and build impactful projects! 🚀
 
 <!--
 **TulikaZeth/TulikaZeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
